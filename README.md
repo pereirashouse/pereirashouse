@@ -21,6 +21,7 @@ Analista de Infraestrutura de TI Sênior e licenciando em Computação na UTFPR.
 | Repositório | O que é |
 |---|---|
 | [monitoramentowificompython](https://github.com/pereirashouse/monitoramentowificompython) | Monitor de quedas Wi-Fi de coletores WMS via API do UniFi. Python puro, com testes automatizados e CI |
+| [computacao-bncc](https://github.com/pereirashouse/computacao-bncc) | Planos de aula, oficina para professores e modelos de Computação alinhados à BNCC |
 | [simulador-configura-o-roteador](https://github.com/pereirashouse/simulador-configura-o-roteador) | Simulador web (HTML, CSS e JS) de configuração de roteador para oficinas |
 | [pereirashouse.github.io](https://github.com/pereirashouse/pereirashouse.github.io) | Código do portfólio |
 
