@@ -1,18 +1,21 @@
-# Olá, eu sou o Jeferson 👋
+# Jeferson Luiz Pereira
 
 Analista de Infraestrutura de TI Sênior e licenciando em Computação na UTFPR. Cuido de servidores, redes, Wi-Fi corporativo e virtualização em ambiente industrial, e levo esse dia a dia para a sala de aula com materiais de Computação para a rede pública, alinhados à BNCC.
 
-🌐 **Portfólio:** [pereirashouse.github.io](https://pereirashouse.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/jefersonluizpereira)
+**Portfólio:** [pereirashouse.github.io](https://pereirashouse.github.io) · [LinkedIn](https://www.linkedin.com/in/jefersonluizpereira)
+
+Para conhecer minha atuação em infraestrutura, comece pelos estudos de caso abaixo. Para escolas e universidades, os materiais de Computação estão na trilha de educação. Para conversar sobre os projetos ou trocar experiências, [entre em contato pelo LinkedIn](https://www.linkedin.com/in/jefersonluizpereira).
 
 ## Infraestrutura: casos para ler primeiro
 
-- [Wi-Fi corporativo com autenticação de máquina (802.1X PEAP-MSCHAPv2)](https://pereirashouse.github.io/#infra): 60 access points, dispositivos pessoais bloqueados e nenhum rollback.
-- [Notebook parou de autenticar depois de uma atualização do Windows](https://pereirashouse.github.io/#infra): causa isolada cruzando quatro fontes de log (bloqueio de NTLMv1).
-- [Alarme falso de robô industrial](https://pereirashouse.github.io/#infra): canal 2,4 GHz saturado, resolvido com RSSI mínimo.
+- [Wi-Fi corporativo com autenticação de máquina (802.1X PEAP-MSCHAPv2)](https://pereirashouse.github.io/projetos/wifi-8021x/): 60 access points, dispositivos pessoais bloqueados e implantação concluída sem rollback.
+- [Notebook parou de autenticar depois de uma atualização do Windows](https://pereirashouse.github.io/projetos/incidente-8021x-windows/): investigação com quatro fontes de log, contorno e correção documentados.
+- [Quedas dos coletores Wi-Fi em operação logística](https://pereirashouse.github.io/projetos/quedas-coletores-wifi/): investigação em seis frentes, correções por rodada e comparação de amostras; validação de longo prazo em andamento.
 
 ## Educação e BNCC da Computação
 
-- [Operação Anzol](https://pereirashouse.github.io/operacao-anzol/): jogo web de perícia contra golpes digitais para o 9º ano (EF09CO04, EF09CO10). Funciona no celular e offline.
+- [Operação Anzol](https://pereirashouse.github.io/operacao-anzol/): jogo web de perícia contra golpes digitais para o 9º ano (EF09CO04, EF09CO10), com uso offline por arquivo HTML local.
+- [Rede da Escola](https://pereirashouse.github.io/rede-da-escola/) e [A Rede Parou](https://pereirashouse.github.io/a-rede-parou/): protótipos publicados para configurar uma rede fictícia e investigar incidentes com registros simulados.
 - [Simulador de roteador](https://pereirashouse.github.io/simulador-configura-o-roteador/): a turma configura um roteador doméstico no navegador, na oficina sobre a "invisibilidade" do Wi-Fi.
 - [Pipeline pedagógico](https://pereirashouse.github.io/pipeline-pedagogico/): como incidentes reais de infraestrutura viram estudos de caso para a sala de aula.
 
