@@ -2,6 +2,8 @@
 
 Analista de Infraestrutura de TI Sênior e licenciando em Computação na UTFPR. Cuido de servidores, redes, Wi-Fi corporativo e virtualização em ambiente industrial, e levo esse dia a dia para a sala de aula com materiais de Computação para a rede pública, alinhados à BNCC.
 
+Atuo também como professor de tecnologia (infraestrutura e redes, hardware e manutenção, BNCC Computação e Excel avançado). Parto de casos reais antes da teoria, uso IA só como copilota no planejamento e com dados sanitizados, e adapto o material da BNCC à realidade de cada turma.
+
 **Portfólio:** [pereirashouse.github.io](https://pereirashouse.github.io) · [LinkedIn](https://www.linkedin.com/in/jefersonluizpereira)
 
 Para conhecer minha atuação em infraestrutura, comece pelos estudos de caso abaixo. Para escolas e universidades, os materiais de Computação estão na trilha de educação. Para conversar sobre os projetos ou trocar experiências, [entre em contato pelo LinkedIn](https://www.linkedin.com/in/jefersonluizpereira).
