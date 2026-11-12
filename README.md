@@ -10,9 +10,9 @@ Para conhecer minha atuação em infraestrutura, comece pelos estudos de caso ab
 
 ## Infraestrutura: casos para ler primeiro
 
-- [Wi-Fi corporativo com autenticação de máquina (802.1X PEAP-MSCHAPv2)](https://pereirashouse.github.io/projetos/wifi-8021x/): 60 access points, dispositivos pessoais bloqueados e implantação concluída sem rollback.
+- [Wi-Fi corporativo com autenticação de máquina (802.1X PEAP-MSCHAPv2)](https://pereirashouse.github.io/projetos/wifi-8021x/): dezenas de access points, dispositivos pessoais bloqueados e implantação concluída sem rollback.
 - [Notebook parou de autenticar depois de uma atualização do Windows](https://pereirashouse.github.io/projetos/incidente-8021x-windows/): investigação com quatro fontes de log, contorno e correção documentados.
-- [Quedas dos coletores Wi-Fi em operação logística](https://pereirashouse.github.io/projetos/quedas-coletores-wifi/): investigação em seis frentes, correções por rodada e comparação de amostras; validação de longo prazo em andamento.
+- [Quedas dos coletores Wi-Fi em operação logística](https://pereirashouse.github.io/projetos/quedas-coletores-wifi/): investigação em seis frentes e correções por rodada; quedas diárias reduzidas em 90%, caso concluído.
 
 ## Educação e BNCC da Computação
 
