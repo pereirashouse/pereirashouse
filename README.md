@@ -1,6 +1,6 @@
 # Jeferson Luiz Pereira
 
-Analista de Infraestrutura de TI Sênior e licenciando em Computação na UTFPR. Cuido de servidores, redes, Wi-Fi corporativo e virtualização em ambiente industrial, e levo esse dia a dia para a sala de aula com materiais de Computação para a rede pública, alinhados à BNCC.
+Analista de Infraestrutura de TI Sênior, fundador da [Pereira's House](https://pereirashouse.github.io/loja/servicos/) e licenciando em Computação na UTFPR. Trago a expertise da indústria em servidores, redes, Wi-Fi corporativo e virtualização para pessoas e pequenos negócios, e levo esse dia a dia para a sala de aula com materiais de Computação para a rede pública, alinhados à BNCC.
 
 Também dou aulas de tecnologia em cursos livres desde 2008 (infraestrutura e redes, hardware e manutenção, BNCC Computação e Excel avançado). Parto de casos reais antes da teoria, uso IA só como copilota no planejamento e com dados sanitizados, e adapto o material da BNCC à realidade de cada turma.
 
